@@ -1,8 +1,7 @@
 # open_source_info_env_public
-A public repository for open source information environment analysis on low resource countries.
+A public repository for open source information environment analysis on low resource countries.  
 
-A public repository for open source information environment analysis on low resource countries.
-This public repository includes files associated with research conducted to explore and evaluate the open source information environment for low-resource countries, using Niger as a case study.
+This public repository includes files associated with research conducted to explore and evaluate the open source information environment for low-resource countries, using Niger as a case study.  Additional data on how to set up your python environment, prepare your data, and run the code blocks are provided as text blocks and comments in each ipynb file.
 
 There are three main avenues of research included.
 
